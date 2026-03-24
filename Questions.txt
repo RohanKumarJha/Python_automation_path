@@ -1,0 +1,163 @@
+Python Coding Questions (150)
+1. Basics & Loops (1–30)
+Print “Hello, World!”.
+Print all even numbers from 1 to 50.
+Print all odd numbers from 1 to 50.
+Print numbers 1–100, replacing multiples of 3 with “Fizz” and 5 with “Buzz”.
+Sum all numbers from 1 to N (input from user).
+Find the factorial of a number.
+Find the sum of digits of a number.
+Reverse a number.
+Check if a number is a palindrome.
+Print all prime numbers from 1 to 100.
+Check if a number is prime.
+Find the GCD of two numbers.
+Find the LCM of two numbers.
+Generate Fibonacci series up to N terms.
+Print the multiplication table of a number.
+Count the number of digits in a number.
+Check if a year is a leap year.
+Find the sum of all even numbers in a list.
+Find the sum of all odd numbers in a list.
+Find the maximum number in a list.
+Find the minimum number in a list.
+Reverse a list without using built-in functions.
+Print a pattern: triangle of stars.
+Print a square pattern of stars.
+Print a pyramid pattern of stars.
+Find the sum of all elements in a list.
+Check if a list contains duplicates.
+Remove duplicates from a list.
+Merge two lists into a single sorted list.
+
+
+2. Strings (31–60)
+Reverse a string.
+Check if a string is a palindrome.
+Count vowels in a string.
+Count consonants in a string.
+Count digits in a string.
+Count words in a string.
+Find the first non-repeating character in a string.
+Remove all vowels from a string.
+Check if two strings are anagrams.
+Convert a string to title case.
+Convert a string to uppercase.
+Convert a string to lowercase.
+Reverse words in a sentence.
+Remove duplicate characters from a string.
+Find the longest word in a sentence.
+Count occurrences of each character in a string.
+Replace all spaces with underscores.
+Check if a string contains only digits.
+Check if a string contains only letters.
+Find all substrings of a string.
+Count occurrences of a substring.
+Remove leading and trailing spaces from a string.
+Find the frequency of words in a sentence.
+Check if a string starts with a given substring.
+Check if a string ends with a given substring.
+Check if a string is a pangram.
+Convert a string to a list of characters.
+Convert a list of characters back to a string.
+Swap the first and last characters of a string.
+Encode a string using basic Caesar cipher (+3 shift).
+
+
+3. Functions & Recursion (61–90)
+Write a function to find factorial of a number.
+Write a recursive function to find factorial.
+Write a function to generate Fibonacci series up to N.
+Write a recursive function for Fibonacci series.
+Write a function to check if a number is prime.
+Write a function to sum digits of a number.
+Write a recursive function to sum digits of a number.
+Write a function to find GCD of two numbers.
+Write a function to find LCM of two numbers.
+Write a function to reverse a string.
+Write a function to check palindrome string.
+Write a function to count vowels in a string.
+Write a function to merge two sorted lists.
+Write a function to remove duplicates from a list.
+Write a function to find second largest number in a list.
+Write a function to check Armstrong number.
+Write a function to check perfect number.
+Write a function to calculate power without using **.
+Write a function to print multiplication table of a number.
+Write a recursive function to print numbers from 1 to N.
+Write a function to find sum of a list using recursion.
+Write a function to reverse a list using recursion.
+Write a function to find all divisors of a number.
+Write a function to count occurrences of an element in a list.
+Write a function to remove all occurrences of an element from a list.
+Write a function to check if a string is an anagram.
+Write a function to check if a number is a Fibonacci number.
+Write a function to check if a number is happy number.
+Write a function to print Pascal’s triangle.
+Write a function to calculate the sum of squares from 1 to N.
+
+
+4. Lists, Tuples, Sets, Dictionaries (91–120)
+Find common elements in two lists.
+Find unique elements from two lists.
+Flatten a nested list.
+Transpose a matrix.
+Multiply two matrices.
+Find row-wise sum of a matrix.
+Find column-wise sum of a matrix.
+Rotate a matrix 90 degrees.
+Find intersection of two sets.
+Find union of two sets.
+Check if a list is subset of another list.
+Count occurrences of elements in a list.
+Find keys with maximum values in a dictionary.
+Sort dictionary by values.
+Merge two dictionaries.
+Remove keys with specific value from dictionary.
+Swap keys and values in dictionary.
+Find difference between two dictionaries.
+Create dictionary from two lists.
+Count frequency of words in a list of sentences.
+Convert list of tuples into dictionary.
+Sort list of tuples by second element.
+Find all indices of a given element in a list.
+Remove all None values from a list.
+Find the most common element in a list.
+Remove duplicates while maintaining order.
+Convert a list of lists into a single flat list.
+Find pairs in a list whose sum equals a target.
+Find triplets in a list whose sum equals a target.
+Implement stack using list.
+
+
+5. File Handling & Automation (121–150)
+Read a file and print all lines.
+Count number of lines in a file.
+Count number of words in a file.
+Count number of characters in a file.
+Find longest word in a file.
+Copy content of one file to another.
+Append a line to a file.
+Remove blank lines from a file.
+Replace a word in a file.
+Find all email addresses in a text file.
+Read CSV file and print each row.
+Write a list of dictionaries to CSV file.
+Read JSON file and print data.
+Write dictionary data to JSON file.
+Rename a file.
+Delete a file.
+List all files in a directory.
+Count total number of files in a directory.
+Find largest file in a directory.
+Find all .txt files in a directory.
+Merge all text files in a directory into one file.
+Write a script to download a file from a URL.
+Write a script to send an email using Python.
+Write a script to rename multiple files in a directory.
+Write a script to check disk usage of a folder.
+Write a script to schedule a task at specific time.
+Write a script to read input from command line arguments.
+Write a script to find duplicate files in a directory.
+Write a script to monitor changes in a directory.
+Write a script to compress all .txt files into a .zip.
